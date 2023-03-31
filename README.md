@@ -1,4 +1,4 @@
-# chat_gpt_4
+# ChatGPT-4
 
 Basically what we have here is a very simply REPL type interface for interacting with the GPT-4 API I got access to.
 
